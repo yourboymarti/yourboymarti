@@ -20,8 +20,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&pause=500&color=26CD4DFF&center=true&vCenter=true&width=455&height=60&lines=Hi!+My+name%E2%80%99s+Martin+Ananikian;I%E2%80%99m+a+QA+Engineer;I'm+very+glad+to+see+you+on+my+GitHub;I+strive+to+work+on+my+repositories;Every+day;To+make+my+portfolio;look+attractive+to+you :)" alt="Typing SVG" /></a>
 </div>
 
-Results-driven and strong attention-to-detail. Passionate about testing software applications. Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. 
-I have experience in commercial project where I have acquired teamwork skills.
+I really enjoy bringing a quality product to the end user and getting feedback from them.
+For me the most important thing in my job is the value I can bring to my company and users. 
+Very motivated to work for a company that cares about his product and users. Company that will give me a chance to apply and improve my skills.
 
 ---
 

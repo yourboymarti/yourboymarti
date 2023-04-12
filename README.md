@@ -26,7 +26,22 @@ Very motivated to work for a company that cares about his product and users. Com
 
 ---
 
+## <div align="center">🛠️Some of hard Skills🛠️</div>  
+
+<p align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="figma" width="40" height="40"/> 
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postman.svg" alt="postman" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jira.svg" alt="atlassian_jira" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="mysql" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/insomnia.svg" alt="insomnia" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="git" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="gitlab" width="40" height="40"/>
+</p>
+
 <div id="badges" align="center">
+ 
+---
   
 :fire: My Stats :fire:
 

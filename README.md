@@ -26,7 +26,7 @@ Very motivated to work for a company that cares about his product and users. Com
 
 ---
 
-## <div align="center">🛠️Some of hard Skills🛠️</div>  
+## <div align="center">🛠️Some of hard skills🛠️</div>  
 
 <p align="center">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="figma" width="40" height="40"/> 

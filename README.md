@@ -21,7 +21,9 @@
 </div>
 
 I really enjoy bringing a quality product to the end user and getting feedback from them.
-For me the most important thing in my job is the value I can bring to my company and users. 
+
+For me the most important thing in my job is the value I can bring to my company and users.
+ 
 Very motivated to work for a company that cares about his product and users. Company that will give me a chance to apply and improve my skills.
 
 ---

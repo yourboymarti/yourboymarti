@@ -9,7 +9,7 @@
   <a href="https://t.me/yourboymarti">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://yourboymarti.github.io/cv/">
+  <a href="https://www.notion.so/yourboymarti/Martin-Ananikian-dd00639110604c5abf4992f2bbc6e7ea/">
     <img src="https://img.shields.io/badge/My CV-blue?style=for-the-badge&logo=internet&logoColor=white" alt="My CV Badge"/>
   </a>
 </div>

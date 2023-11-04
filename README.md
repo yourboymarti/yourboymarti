@@ -38,12 +38,5 @@
 </p>
 
 <div id="badges" align="center">
- 
----
   
-:fire: My Stats :fire:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yourboymarti&theme=dark&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourboymarti&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>

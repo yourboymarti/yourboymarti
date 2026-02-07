@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="image/aqa_banner.png" width="100%"/>
+  <img src="https://cdn.pixabay.com/animation/2022/11/10/13/22/13-22-56-246_512.gif" width="280" alt="Animated guy sitting with a laptop"/>
 </div>
 
 <div id="badges" align="center">
